@@ -40,9 +40,9 @@
 <strong>⚡ Github Stats </strong>
 <br/>
 
-<a href="javascript:void(0)"><img alt="rabindra's Trophies" style="width:100%" src="https://github-profile-trophy.vercel.app/?username=rabindratharu" /></a>
-<a href="javascript:void(0)"><img alt="rabindra's GitHub stats" style="width:53%" src="https://github-readme-stats.vercel.app/api?username=rabindratharu&include_all_commits=true&show_icons=true" /></a>
-<a href="javascript:void(0)"><img alt="rabindra's Top Languages" style="width:44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabindratharu&layout=compact&hide=html" /></a>
+![Trophies](https://github-profile-trophy.vercel.app/?username=rabindratharu)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rabindratharu&include_all_commits=true&show_icons=true)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rabindratharu&layout=compact&hide=html)
 <br/>
 
 [linkedin]: https://www.linkedin.com/in/rabindratharu/
