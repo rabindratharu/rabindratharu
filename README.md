@@ -16,7 +16,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="navanath-bhosale | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] [<img align="left" alt="i_am_navanath | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] [<img align="left" alt="navnath.bhosale.3 | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="rabindratharu | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] [<img align="left" alt="rabindratharu | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] [<img align="left" alt="rabindra.tharu.np | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
 <br />
 
@@ -40,9 +40,9 @@
 <strong>⚡ Github Stats </strong>
 <br/>
 
-<a href="javascript:void(0)"><img alt="Navanath's Trophies" style="width:100%" src="https://github-profile-trophy.vercel.app/?username=rabindratharu" /></a>
-<a href="javascript:void(0)"><img alt="Navanath's GitHub stats" style="width:53%" src="https://github-readme-stats.vercel.app/api?username=rabindratharu&include_all_commits=true&show_icons=true" /></a>
-<a href="javascript:void(0)"><img alt="Navanath's Top Languages" style="width:44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabindratharu&layout=compact&hide=html" /></a>
+<a href="javascript:void(0)"><img alt="rabindra's Trophies" style="width:100%" src="https://github-profile-trophy.vercel.app/?username=rabindratharu" /></a>
+<a href="javascript:void(0)"><img alt="rabindra's GitHub stats" style="width:53%" src="https://github-readme-stats.vercel.app/api?username=rabindratharu&include_all_commits=true&show_icons=true" /></a>
+<a href="javascript:void(0)"><img alt="rabindra's Top Languages" style="width:44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabindratharu&layout=compact&hide=html" /></a>
 <br/>
 
 [linkedin]: https://www.linkedin.com/in/rabindratharu/
